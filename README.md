@@ -15,3 +15,7 @@ npm run dev
 npm run build
 ```
 
+# repar Ratings Page 
+
+Bus.$emit('ratingtype.select', type); 事件传递接受问题导致的refresh问题
+
